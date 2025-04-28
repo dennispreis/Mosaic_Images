@@ -54,4 +54,10 @@ All examples images are taking from a google images search.
 ![image](wolf_size.jpg)
 ![image](wolf_circles_streched.jpg)
 
+# Credits
+
+This project was inspired by the coding train: https://www.youtube.com/watch?v=QHEQuoIKgNE
+
+Thanks to Daniel Shiffman for sharing his knowledge and creativity!
+
 
